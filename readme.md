@@ -3,9 +3,11 @@
 	<p>
 		<b>Simple Typescript, React and Electron project setup</b>
 	</p>
+	<br />
+	<br />
 </div>
 
-This is a simple macOS menubar project setup using [`menubar`](https://github.com/maxogden/menubar/), Webpack, and React.
+This is a macOS menubar project setup using [`menubar`](https://github.com/maxogden/menubar/), Webpack, and React.
 
 ![demo](https://user-images.githubusercontent.com/12195101/92665032-8add4680-f2d3-11ea-9a6e-e7daadcf8490.gif)
 
