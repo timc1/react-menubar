@@ -14,11 +14,7 @@ This is a macOS menubar project setup using [`menubar`](https://github.com/maxog
 
 ### Usage
 
-To install and set up your project, run:
-
-```console
-git clone git@github.com:timc1/react-menubar.git
-```
+To install and set up your project, first fork this repo.
 
 Then install the dependencies:
 
